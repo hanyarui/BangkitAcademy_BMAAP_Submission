@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Submission BMAAP</string>
+    <string name="car_name">Daftar Mobil</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="nama">Ruinzy</string>
+    <string name="email">dharuaulia1@gmail.com</string>
+    <string-array name="data_name">
+        <item>Honda Civic Type R</item>
+        <item>Toyota Corolla AE86</item>
+        <item>Nissan Skyline GT-R</item>
+        <item>Mitsubishi Lancer Evolution</item>
+        <item>Honda NSX</item>
+        <item>Mazda RX-7</item>
+        <item>Nissan Silvia S13</item>
+        <item>Toyota Supra</item>
+        <item>Subaru Impreza WRX STI</item>
+    </string-array>
+    <string name="hp">Horse Power</string>
+    <string name="mesin">Mesin</string>
+    <string name="torsi">Torque</string>
+    <string-array name="data_description">
+        <item>Honda Civic Type R adalah serangkaian model hatchback dan sedan sport yang didasarkan pada Civic, yang dikembangkan dan diproduksi oleh Honda sejak bulan September 1997. Civic Type R pertama adalah model ketiga yang menerima lencana Type R Honda (setelah NSX dan Integra). Civic versi Type R biasanya memiliki bodi yang lebih ringan dan kaku, mesin yang disetel secara khusus, serta rem dan sasis yang ditingkatkan, dan hanya ditawarkan dalam transmisi manual lima atau enam percepatan. Seperti model Tipe R lainnya, warna merah digunakan pada latar belakang lencana Honda untuk membedakannya dengan model lainnya.</item>
+        <item>Toyota Corolla adalah serangkaian mobil kompak (sebelumnya subkompak) yang diproduksi dan dipasarkan secara global oleh produsen mobil Jepang, Toyota Motor Corporation. Diperkenalkan pada tahun 1966, Corolla merupakan mobil terlaris di seluruh dunia pada tahun 1974 dan menjadi salah satu mobil terlaris di dunia sejak saat itu. Pada tahun 1997, Corolla menjadi mobil dengan penjualan terlaris di dunia, melampaui Volkswagen Beetle.[1] Toyota mencapai tonggak sejarah dengan menjual 50 juta Corolla selama dua belas generasi pada tahun 2021.</item>
+        <item>Nissan GT-R adalah mobil yang dibuat oleh merek Jepang, Nissan, sejak tahun 2007. Mobil ini memiliki tata letak tempat duduk 2+2 dan dianggap sebagai mobil sport dan grand tourer. Mesinnya dipasang di bagian tengah depan dan menggerakkan keempat rodanya. Mobil ini menggantikan Nissan Skyline GT-R, varian yang lebih cepat dari Nissan Skyline. Meskipun model ini merupakan generasi keenam yang menyandang nama GT-R, model ini tidak lagi menjadi bagian dari jajaran Skyline. Mobil ini dibangun di atas platform PM, yang berasal dari platform FM yang digunakan pada model Skyline dan Nissan Z. Produksi dilakukan di jalur produksi bersama di pabrik Nissan Tochigi di Jepang.</item>
+        <item>Mitsubishi Lancer Evolution, yang populer disebut sebagai (Evo), adalah sedan sport dan mobil reli yang didasarkan pada Lancer yang diproduksi oleh pabrikan Jepang Mitsubishi Motors dari tahun 1992 hingga 2016. Ada sepuluh versi resmi hingga saat ini, dan penunjukan setiap model biasanya menggunakan angka Romawi. Semua generasi menggunakan mesin empat silinder segaris turbo intercooler dua liter dan sistem penggerak semua roda.</item>
+        <item>Honda NSX, yang dipasarkan di Amerika Utara sebagai Acura NSX, adalah mobil sport dengan dua tempat duduk, bermesin tengah belakang, dan berpenggerak roda belakang yang diproduksi oleh Honda. Asal-usul NSX dimulai pada tahun 1984, dengan konsep HP-X (Honda Pininfarina eXperimental), untuk mobil sport bermesin tengah belakang 3.0 L (180 cu in) V6 dengan penggerak roda belakang. Honda berkomitmen pada proyek ini, dengan tujuan untuk memenuhi atau melampaui performa jajaran Ferrari bermesin V8, sekaligus menawarkan keandalan dan harga yang lebih rendah. Konsep ini kemudian berkembang dan namanya diubah menjadi NS-X, yang merupakan singkatan dari "New", "Sportscar" "eXperimental", meskipun model produksinya diluncurkan sebagai NSX.</item>
+        <item>Mazda RX-7 adalah mobil sport bermesin depan, berpenggerak roda belakang, dan bertenaga mesin rotari yang diproduksi dan dipasarkan oleh Mazda dari tahun 1978 hingga 2002 dalam tiga generasi, yang semuanya menggunakan mesin rotari Wankel yang ringkas dan ringan.</item>
+        <item>Nissan Silvia adalah seri mobil sport kecil yang diproduksi oleh Nissan. Versi Silvia telah dipasarkan sebagai 200SX atau 240SX untuk ekspor, dengan beberapa versi ekspor dijual dengan merek Datsun. Nama "Silvia" diambil dari Sylvia, nama peri yang melayani Diana, dewi perburuan dan kesucian Romawi. Nama ini juga berarti "hutan" dalam bahasa Latin.</item>
+        <item>Toyota Supra adalah mobil sport dan grand tourer yang diproduksi oleh Toyota Motor Corporation mulai tahun 1978. Nama "supra" berasal dari awalan bahasa Latin, yang berarti "di atas", "melampaui", atau "melampaui".</item>
+        <item>Subaru Impreza adalah mobil kompak yang telah diproduksi oleh produsen mobil Jepang, Subaru, sejak tahun 1992. Mobil ini diperkenalkan sebagai pengganti Leone, dengan mesin seri EA pendahulunya digantikan oleh seri EJ yang baru. Sekarang sudah memasuki generasi keenam.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/civic</item>
+        <item>@drawable/corolla</item>
+        <item>@drawable/gtrr35</item>
+        <item>@drawable/lancer</item>
+        <item>@drawable/nsx</item>
+        <item>@drawable/rx7</item>
+        <item>@drawable/silvia</item>
+        <item>@drawable/supra</item>
+        <item>@drawable/wrxsti</item>
+    </integer-array>
+</resources>
